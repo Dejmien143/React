@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.custom-btn-toolbar>.btn {
+  margin-right: 1rem;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  height: 100vh;
+}
+
+.login-form {
+  width: 300px;
+}
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  height: 100vh;
+}
+
+.register-form {
+  width: 300px;
+}
+
+.summary-container {
+  display: flex;
+}
+
+.product-list {
+  
+  flex: 3;
+  padding: 10px;
+}
+
+
+.category-summary {
+  flex: 1;
+  padding: 10px;
+}

@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "jeremy",
+      "pwd": "123"
+    },
+    {
+      "id": 2,
+      "user": "james",
+      "pwd": "123"
+    },
+    {
+      "id": 3,
+      "user": "richard",
+      "pwd": "123"
+    },
+    {
+      "user": "admin1",
+      "pwd": "123",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "code": "AB103",
+      "name": "Bottle of milk",
+      "description": "0.75 litre bottle\nPasteurized, should be kept in cold",
+      "category": 20,
+      "quantity": 23,
+      "measure": "pcs",
+      "price": "3.5"
+    },
+    {
+      "id": 7,
+      "code": "5AB13",
+      "name": "potatoes",
+      "description": "by weight",
+      "category": 20,
+      "quantity": 11.4,
+      "measure": "kg",
+      "price": "1.5"
+    },
+    {
+      "id": 11,
+      "code": "W513",
+      "name": "cigarettes",
+      "description": "not too healthy",
+      "category": 25,
+      "quantity": 12,
+      "measure": "pcs",
+      "price": "10.5"
+    }
+  ],
+  "categories": [
+    {
+      "id": 20,
+      "name": "food"
+    },
+    {
+      "id": 25,
+      "name": "other"
+    }
+  ]
+}
